@@ -1,0 +1,4 @@
+Go to the file "bin"
+Click the right button of your mouse
+Click on "GitBashHere"
+Type: java application/Program

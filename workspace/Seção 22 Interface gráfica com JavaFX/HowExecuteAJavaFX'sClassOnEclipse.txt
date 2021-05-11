@@ -1,0 +1,7 @@
+Click on the mouse's right button
+Run as
+Run configurations
+Arguments
+VM arguments
+Type:
+--module-path D:\projetos\JavaLibs\JavaConnectors\javafx-sdk-11.0.2\lib --add-modules=javafx.fxml,javafx.controls
